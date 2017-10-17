@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-         
+            echo "Alterado na Web";
         ?>
     </body>
 </html>
